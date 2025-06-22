@@ -8,4 +8,6 @@
 
 ## 运行
 
+- `uv venv`
+- `uv sync`
 - `uv run marimo edit`
